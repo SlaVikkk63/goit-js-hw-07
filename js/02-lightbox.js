@@ -22,8 +22,7 @@ const createGallery = galleryItems
 
     captionsData: `alt`, 
     captionPosition:'bottom', 
-    captionDelay: 500, 
-    animationSpeed: 5
+    captionDelay: 250, 
     
 
 
